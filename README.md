@@ -18,4 +18,8 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+[Scaffold info](http://vuejs-templates.github.io/webpack/)  
+[vue-loader info](http://vuejs.github.io/vue-loader).
+
+
+P.S. Do not watch on `alert` and `insert` warnings from eslint, they're required
